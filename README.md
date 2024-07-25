@@ -1,1 +1,1 @@
-This is a simple Personal Finance Tracker using Python and Pandas
+This is a simple Personal Finance Tracker employing Python, Pandas, OOPs, Matplotlib
